@@ -1,0 +1,73 @@
+html {
+  font-size: 14px;
+}
+
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  background-color: #DCD5D4;
+  width: 95%;
+  margin-top: 25px;
+  margin-bottom: 35px;
+  text-align: justify;
+}
+
+
+.lead{
+  margin-bottom: 25px;
+}
+
+.members{
+  display: flex;
+  justify-content: center;
+
+}
+
+.card-body{
+  text-align: justify;
+}
+
+.button{
+  
+}
+
+.card-header-thanos{
+  background-image: url("img/Thanos.jpg");
+  min-height: 200px;
+  width: auto;
+  background-size: cover;                     
+  background-repeat: no-repeat;
+}
+.card-header-loki{
+  background-image: url("img/Loki.jpg");
+  min-height: 200px;
+  width: auto;
+  background-size: cover;                     
+  background-repeat: no-repeat;
+}
+.card-header-hulk{
+  background-image: url("img/Hulk.jpg");
+  min-height: 200px;
+  width: auto;
+  background-size: cover;                     
+  background-repeat: no-repeat;
+}
+.formulario{
+  width: 100%;
+}
+
+.btn{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
